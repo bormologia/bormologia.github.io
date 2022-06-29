@@ -1,0 +1,83 @@
+ul{
+
+ list-style: none;
+margin: 0;
+padding: 0;
+
+}
+
+
+ul li{
+   
+   width: 150px ;
+   height: 40px ;
+  background-color:pink;
+  font-size: 20px;
+
+ display: inline-block;
+  text-align: center;
+  line-height: 40px;
+opacity: 0.8;
+
+float: left;
+
+
+}
+
+ul li a{
+
+  text-decoration: none;
+  color: white;
+  display: block;
+
+
+}
+
+ul li a:hover{
+   background-color: orange;
+
+}
+
+
+ul li ul li {
+
+display: none;
+
+}
+
+
+ul li:hover ul li{
+ display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
