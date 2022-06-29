@@ -1,1 +1,0 @@
-# bormologia.github.io
